@@ -8,6 +8,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/PritamKumar-2327/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0136-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0136-single-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
