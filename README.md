@@ -46,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/PritamKumar-2327/Leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/PritamKumar-2327/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
