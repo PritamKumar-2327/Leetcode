@@ -42,4 +42,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/PritamKumar-2327/Leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
