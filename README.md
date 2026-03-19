@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0338-counting-bits](https://github.com/PritamKumar-2327/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/PritamKumar-2327/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -89,4 +90,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/PritamKumar-2327/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/PritamKumar-2327/Leetcode/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
