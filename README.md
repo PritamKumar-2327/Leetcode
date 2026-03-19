@@ -80,4 +80,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0551-student-attendance-record-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/PritamKumar-2327/Leetcode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
