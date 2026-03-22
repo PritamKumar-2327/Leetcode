@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0495-teemo-attacking](https://github.com/PritamKumar-2327/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -64,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0997-find-the-town-judge](https://github.com/PritamKumar-2327/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Sliding Window
@@ -74,6 +76,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
