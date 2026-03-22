@@ -41,6 +41,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PritamKumar-2327/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0997-find-the-town-judge](https://github.com/PritamKumar-2327/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PritamKumar-2327/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PritamKumar-2327/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PritamKumar-2327/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PritamKumar-2327/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
