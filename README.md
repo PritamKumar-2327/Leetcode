@@ -98,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PritamKumar-2327/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 ## Shell
@@ -130,4 +131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PritamKumar-2327/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
