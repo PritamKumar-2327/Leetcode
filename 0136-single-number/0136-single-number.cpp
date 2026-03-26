@@ -3,8 +3,8 @@ public:
     int singleNumber(vector<int>& nums) {
          int ans = 0;
 
-    for (const int num : nums)
-      ans ^= num;
+    for (int val : nums)
+      ans ^=val;
 
     return ans;
     }
