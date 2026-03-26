@@ -44,6 +44,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0495-teemo-attacking](https://github.com/PritamKumar-2327/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PritamKumar-2327/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -92,6 +93,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -159,4 +161,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
