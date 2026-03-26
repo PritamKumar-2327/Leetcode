@@ -41,6 +41,7 @@
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0495-teemo-attacking](https://github.com/PritamKumar-2327/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -153,6 +154,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/PritamKumar-2327/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
