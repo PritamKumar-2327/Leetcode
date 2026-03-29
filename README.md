@@ -71,6 +71,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PritamKumar-2327/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -185,4 +186,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
