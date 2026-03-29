@@ -126,6 +126,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
