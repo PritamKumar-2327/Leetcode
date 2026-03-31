@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -31,11 +32,13 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Array
 | Problem Name | Difficulty |
