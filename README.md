@@ -68,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Stack
