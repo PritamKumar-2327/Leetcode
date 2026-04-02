@@ -4,6 +4,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PritamKumar-2327/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 ## Bit Manipulation
@@ -72,6 +73,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PritamKumar-2327/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -212,4 +214,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/PritamKumar-2327/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
