@@ -60,6 +60,7 @@
 | [0053-maximum-subarray](https://github.com/PritamKumar-2327/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0118-pascals-triangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/PritamKumar-2327/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -183,6 +184,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PritamKumar-2327/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0118-pascals-triangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0322-coin-change](https://github.com/PritamKumar-2327/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/PritamKumar-2327/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PritamKumar-2327/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
