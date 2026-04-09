@@ -174,6 +174,7 @@
 | [0168-excel-sheet-column-title](https://github.com/PritamKumar-2327/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/PritamKumar-2327/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/PritamKumar-2327/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -230,6 +231,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
