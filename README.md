@@ -62,6 +62,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/PritamKumar-2327/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0136-single-number/) | Easy |
@@ -201,6 +202,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PritamKumar-2327/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/PritamKumar-2327/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0322-coin-change](https://github.com/PritamKumar-2327/Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -251,6 +253,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
