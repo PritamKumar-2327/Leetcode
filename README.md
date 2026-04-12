@@ -65,6 +65,7 @@
 | [0055-jump-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/PritamKumar-2327/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -205,6 +206,7 @@
 | [0053-maximum-subarray](https://github.com/PritamKumar-2327/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/PritamKumar-2327/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0322-coin-change](https://github.com/PritamKumar-2327/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/PritamKumar-2327/Leetcode/tree/main/0338-counting-bits/) | Easy |
