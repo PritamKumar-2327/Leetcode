@@ -125,6 +125,7 @@
 | [0595-big-countries](https://github.com/PritamKumar-2327/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/PritamKumar-2327/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/PritamKumar-2327/Leetcode/tree/main/0607-sales-person/) | Easy |
+| [0619-biggest-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
