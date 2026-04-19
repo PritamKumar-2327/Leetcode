@@ -73,6 +73,7 @@
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/PritamKumar-2327/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0495-teemo-attacking](https://github.com/PritamKumar-2327/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -159,6 +160,7 @@
 | [0169-majority-element](https://github.com/PritamKumar-2327/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -173,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PritamKumar-2327/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -267,6 +270,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +300,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/PritamKumar-2327/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
