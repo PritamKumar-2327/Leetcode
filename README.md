@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/PritamKumar-2327/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | [0100-same-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -53,6 +55,7 @@
 | [0100-same-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -253,6 +256,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PritamKumar-2327/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/PritamKumar-2327/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/PritamKumar-2327/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -324,4 +328,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
