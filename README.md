@@ -94,6 +94,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PritamKumar-2327/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PritamKumar-2327/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PritamKumar-2327/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PritamKumar-2327/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -287,6 +288,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PritamKumar-2327/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
