@@ -138,6 +138,7 @@
 | [0607-sales-person](https://github.com/PritamKumar-2327/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/PritamKumar-2327/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/PritamKumar-2327/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
