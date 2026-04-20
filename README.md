@@ -132,6 +132,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/PritamKumar-2327/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0178-rank-scores](https://github.com/PritamKumar-2327/Leetcode/tree/main/0178-rank-scores/) | Medium |
+| [0585-investments-in-2016](https://github.com/PritamKumar-2327/Leetcode/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/PritamKumar-2327/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/PritamKumar-2327/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/PritamKumar-2327/Leetcode/tree/main/0607-sales-person/) | Easy |
