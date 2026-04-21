@@ -15,6 +15,7 @@
 | [0191-number-of-1-bits](https://github.com/PritamKumar-2327/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/PritamKumar-2327/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PritamKumar-2327/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/PritamKumar-2327/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -85,6 +86,7 @@
 | [0239-sliding-window-maximum](https://github.com/PritamKumar-2327/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/PritamKumar-2327/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -279,6 +281,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -290,6 +293,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
