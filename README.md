@@ -8,6 +8,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/PritamKumar-2327/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/PritamKumar-2327/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -42,6 +44,7 @@
 | [0100-same-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/PritamKumar-2327/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -69,6 +72,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/PritamKumar-2327/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/PritamKumar-2327/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -141,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PritamKumar-2327/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/PritamKumar-2327/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
