@@ -24,6 +24,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PritamKumar-2327/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -67,6 +68,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PritamKumar-2327/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0100-same-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/PritamKumar-2327/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -131,6 +133,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/PritamKumar-2327/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/PritamKumar-2327/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/PritamKumar-2327/Leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
@@ -270,6 +273,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PritamKumar-2327/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/PritamKumar-2327/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/PritamKumar-2327/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -375,6 +379,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PritamKumar-2327/Leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/PritamKumar-2327/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PritamKumar-2327/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
