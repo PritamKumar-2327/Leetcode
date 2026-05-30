@@ -329,6 +329,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/PritamKumar-2327/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -394,4 +395,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PritamKumar-2327/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/PritamKumar-2327/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
