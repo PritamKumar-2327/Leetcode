@@ -148,6 +148,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/PritamKumar-2327/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/PritamKumar-2327/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
