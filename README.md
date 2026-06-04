@@ -151,6 +151,7 @@
 | [0492-construct-the-rectangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/PritamKumar-2327/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -297,6 +298,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PritamKumar-2327/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/PritamKumar-2327/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PritamKumar-2327/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,4 +420,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/PritamKumar-2327/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
