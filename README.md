@@ -39,6 +39,7 @@
 | [0226-invert-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PritamKumar-2327/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@
 | [0226-invert-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PritamKumar-2327/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PritamKumar-2327/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
@@ -83,6 +85,7 @@
 | [0226-invert-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PritamKumar-2327/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -260,6 +263,7 @@
 | [0171-excel-sheet-column-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/PritamKumar-2327/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/PritamKumar-2327/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/PritamKumar-2327/Leetcode/tree/main/0383-ransom-note/) | Easy |
@@ -302,6 +306,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PritamKumar-2327/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
