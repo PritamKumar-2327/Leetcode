@@ -129,6 +129,7 @@
 | [2126-destroying-asteroids](https://github.com/PritamKumar-2327/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PritamKumar-2327/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/PritamKumar-2327/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PritamKumar-2327/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -251,6 +252,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/PritamKumar-2327/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/PritamKumar-2327/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PritamKumar-2327/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## String
