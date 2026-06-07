@@ -122,6 +122,7 @@
 | [0724-find-pivot-index](https://github.com/PritamKumar-2327/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/PritamKumar-2327/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/PritamKumar-2327/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0997-find-the-town-judge](https://github.com/PritamKumar-2327/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PritamKumar-2327/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -280,6 +281,7 @@
 | [0551-student-attendance-record-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/PritamKumar-2327/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/PritamKumar-2327/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PritamKumar-2327/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PritamKumar-2327/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -346,6 +348,7 @@
 | [0283-move-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Monotonic Stack
