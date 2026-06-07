@@ -114,6 +114,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0495-teemo-attacking](https://github.com/PritamKumar-2327/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0506-relative-ranks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -225,6 +226,7 @@
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0506-relative-ranks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -397,6 +399,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/PritamKumar-2327/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0506-relative-ranks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
