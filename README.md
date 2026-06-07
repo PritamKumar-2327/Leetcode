@@ -40,6 +40,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PritamKumar-2327/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PritamKumar-2327/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PritamKumar-2327/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/PritamKumar-2327/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PritamKumar-2327/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/PritamKumar-2327/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -201,6 +204,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/PritamKumar-2327/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0997-find-the-town-judge](https://github.com/PritamKumar-2327/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
