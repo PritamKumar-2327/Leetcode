@@ -196,6 +196,7 @@
 | [0627-swap-sex-of-employees](https://github.com/PritamKumar-2327/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/PritamKumar-2327/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/PritamKumar-2327/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
