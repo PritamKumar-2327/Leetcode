@@ -149,6 +149,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/PritamKumar-2327/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +297,7 @@
 | [2833-furthest-point-from-origin](https://github.com/PritamKumar-2327/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/PritamKumar-2327/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@
 | [0657-robot-return-to-origin](https://github.com/PritamKumar-2327/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/PritamKumar-2327/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
