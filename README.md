@@ -129,6 +129,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0997-find-the-town-judge](https://github.com/PritamKumar-2327/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/PritamKumar-2327/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PritamKumar-2327/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PritamKumar-2327/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -238,6 +239,7 @@
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/PritamKumar-2327/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [2126-destroying-asteroids](https://github.com/PritamKumar-2327/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PritamKumar-2327/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
