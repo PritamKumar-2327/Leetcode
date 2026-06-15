@@ -10,6 +10,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +363,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
