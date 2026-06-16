@@ -297,6 +297,7 @@
 | [0811-subdomain-visit-count](https://github.com/PritamKumar-2327/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PritamKumar-2327/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1768-merge-strings-alternately](https://github.com/PritamKumar-2327/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/PritamKumar-2327/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -366,6 +367,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/PritamKumar-2327/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PritamKumar-2327/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Monotonic Stack
