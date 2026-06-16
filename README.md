@@ -135,6 +135,7 @@
 | [0997-find-the-town-judge](https://github.com/PritamKumar-2327/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/PritamKumar-2327/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PritamKumar-2327/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/PritamKumar-2327/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PritamKumar-2327/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PritamKumar-2327/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
