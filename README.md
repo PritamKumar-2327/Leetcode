@@ -170,6 +170,7 @@
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/PritamKumar-2327/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
