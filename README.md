@@ -43,6 +43,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/PritamKumar-2327/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
@@ -60,6 +61,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/PritamKumar-2327/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PritamKumar-2327/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
@@ -73,6 +75,7 @@
 | [0226-invert-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/PritamKumar-2327/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PritamKumar-2327/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PritamKumar-2327/Leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
@@ -95,6 +98,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/PritamKumar-2327/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/PritamKumar-2327/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PritamKumar-2327/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Array
