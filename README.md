@@ -125,6 +125,7 @@
 | [0506-relative-ranks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/PritamKumar-2327/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PritamKumar-2327/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0724-find-pivot-index](https://github.com/PritamKumar-2327/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -220,6 +221,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/PritamKumar-2327/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/PritamKumar-2327/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0997-find-the-town-judge](https://github.com/PritamKumar-2327/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -296,6 +298,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/PritamKumar-2327/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0647-palindromic-substrings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/PritamKumar-2327/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/PritamKumar-2327/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
