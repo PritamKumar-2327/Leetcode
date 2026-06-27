@@ -156,6 +156,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/PritamKumar-2327/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PritamKumar-2327/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PritamKumar-2327/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -237,6 +238,7 @@
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PritamKumar-2327/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sliding Window
@@ -486,5 +488,6 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PritamKumar-2327/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
