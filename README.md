@@ -132,6 +132,7 @@
 | [0506-relative-ranks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0598-range-addition-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PritamKumar-2327/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PritamKumar-2327/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
@@ -180,6 +181,7 @@
 | [0268-missing-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0598-range-addition-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0598-range-addition-ii/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PritamKumar-2327/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
