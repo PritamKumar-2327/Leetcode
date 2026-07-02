@@ -313,6 +313,7 @@
 | [0383-ransom-note](https://github.com/PritamKumar-2327/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PritamKumar-2327/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0647-palindromic-substrings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -390,6 +391,7 @@
 | [0283-move-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
