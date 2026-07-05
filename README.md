@@ -113,6 +113,7 @@
 | [0054-spiral-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/PritamKumar-2327/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/PritamKumar-2327/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -222,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PritamKumar-2327/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/PritamKumar-2327/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -282,6 +284,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritamKumar-2327/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/PritamKumar-2327/Leetcode/tree/main/0463-island-perimeter/) | Easy |
