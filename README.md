@@ -318,6 +318,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/PritamKumar-2327/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
@@ -360,6 +361,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/PritamKumar-2327/Leetcode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0322-coin-change](https://github.com/PritamKumar-2327/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/PritamKumar-2327/Leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0392-is-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PritamKumar-2327/Leetcode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/PritamKumar-2327/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -400,6 +402,7 @@
 | [0283-move-zeroes](https://github.com/PritamKumar-2327/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/PritamKumar-2327/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/PritamKumar-2327/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
