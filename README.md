@@ -325,6 +325,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/PritamKumar-2327/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/PritamKumar-2327/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0541-reverse-string-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/PritamKumar-2327/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -511,4 +512,8 @@
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PritamKumar-2327/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/PritamKumar-2327/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
