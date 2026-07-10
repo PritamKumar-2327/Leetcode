@@ -156,6 +156,7 @@
 | [2126-destroying-asteroids](https://github.com/PritamKumar-2327/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PritamKumar-2327/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/PritamKumar-2327/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/PritamKumar-2327/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -242,6 +243,7 @@
 | [0997-find-the-town-judge](https://github.com/PritamKumar-2327/Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/PritamKumar-2327/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/PritamKumar-2327/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
