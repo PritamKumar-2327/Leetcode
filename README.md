@@ -190,6 +190,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/PritamKumar-2327/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PritamKumar-2327/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PritamKumar-2327/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PritamKumar-2327/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/PritamKumar-2327/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Stack
@@ -518,4 +519,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/PritamKumar-2327/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PritamKumar-2327/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
