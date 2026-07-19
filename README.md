@@ -204,6 +204,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/PritamKumar-2327/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/PritamKumar-2327/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PritamKumar-2327/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +340,7 @@
 | [0657-robot-return-to-origin](https://github.com/PritamKumar-2327/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/PritamKumar-2327/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/PritamKumar-2327/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PritamKumar-2327/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/PritamKumar-2327/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PritamKumar-2327/Leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/PritamKumar-2327/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -428,6 +430,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PritamKumar-2327/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,6 +447,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/PritamKumar-2327/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/PritamKumar-2327/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PritamKumar-2327/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/PritamKumar-2327/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PritamKumar-2327/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/PritamKumar-2327/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
