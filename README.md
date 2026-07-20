@@ -158,6 +158,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PritamKumar-2327/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PritamKumar-2327/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PritamKumar-2327/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PritamKumar-2327/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/PritamKumar-2327/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -251,6 +252,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/PritamKumar-2327/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PritamKumar-2327/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PritamKumar-2327/Leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PritamKumar-2327/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2615-sum-of-distances](https://github.com/PritamKumar-2327/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PritamKumar-2327/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PritamKumar-2327/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -263,6 +265,7 @@
 | [0239-sliding-window-maximum](https://github.com/PritamKumar-2327/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/PritamKumar-2327/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/PritamKumar-2327/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PritamKumar-2327/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
